@@ -17,4 +17,5 @@ In this course, I learn the foundations of deep learning:
 - Know how to implement efficient (vectorized) neural networks 
 - Understand the key parameters in a neural network's architecture 
 
-This course also teaches me how Deep Learning actually works, allowing one to apply deep learning to a my own applications.
+This course teaches how Deep Learning actually works.
+
